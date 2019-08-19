@@ -1,0 +1,8 @@
+{
+  "navItems": [
+    "Appointments",
+    "Pets",
+    "Veterinarians"
+  ],
+  "appTitle": "PetClinic"
+}
